@@ -1,19 +1,20 @@
-# Banking Management Application (C)
+# Application de gestion bancaire (C)
 
 ## Description
-Academic team project developed in C.
-The objective of this project was to work collaboratively in a team and build a structured console application.
+Projet académique réalisé en équipe et développé en C.
 
-## Key points
-- Team collaboration
-- Input validation
-- Structured programming
-- Clean and readable code
+L'objectif de ce projet était de travailler en équipe et de créer une application console structurée.
+
+## Points clés
+- Collaboration en équipe
+- Validation des entrées
+- Programmation structurée
+- Code propre et lisible
 
 ## Technologies
-- C language
+- Langage C
 - Code::Blocks
-- Git & GitHub
+- Git et GitHub
 
-## Author
+## Auteur
 Zaghar Badreddine
